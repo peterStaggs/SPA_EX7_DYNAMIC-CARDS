@@ -1,0 +1,16 @@
+.innerDiv {
+	text-align:  center;
+	border:  .5em solid black;
+	display :  inline-block;
+	width: 10em;
+	height:  5em;
+	margin-left: 3em;
+	margin-bottom:  3em;
+	padding: 1em;
+
+
+}
+
+#clear {
+	width: 5em;
+}
